@@ -1,2 +1,3 @@
-# portfolio_site
-portfolio site in collaboration with friend
+# care
+
+in progress self care website / application 
